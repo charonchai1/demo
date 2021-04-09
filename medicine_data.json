@@ -2745,25 +2745,7 @@
     "manufacturer": "องค์การเภสัชกรรม"
   },
   {
-    "id": 306,
-    "TMT": 632874,
-    "Generic": "PARACETAMOL",
-    "name": "PARACETAMOL SYRUP 120 mg/5 ml  60 ml",
-    "strength": "120 mg/5ml",
-    "package": "ขวด (60 ml.)",
-    "manufacturer": "องค์การเภสัชกรรม"
-  },
-  {
     "id": 307,
-    "TMT": 404356,
-    "Generic": "PARACETAMOL",
-    "name": "PARACETAMOL TABLETS 500 mg 100s",
-    "strength": "500 mg.",
-    "package": "เม็ด",
-    "manufacturer": "เอช.เค. ฟาร์มาซูติคอล"
-  },
-  {
-    "id": 308,
     "TMT": 404356,
     "Generic": "PARACETAMOL",
     "name": "PARACETAMOL TABLETS 500 mg 100s",
@@ -2781,25 +2763,7 @@
     "manufacturer": "ไทยโอซูก้า"
   },
   {
-    "id": 310,
-    "TMT": 731287,
-    "Generic": "ACETARSOLUTION1000ML",
-    "name": "ACETAR (ACETATE RINGERS INJECTION)",
-    "strength": ".",
-    "package": ".",
-    "manufacturer": "ไทยโอซูก้า"
-  },
-  {
     "id": 311,
-    "TMT": 250335,
-    "Generic": "ASPIRIN",
-    "name": "ASPENT",
-    "strength": "300 mg.",
-    "package": ".",
-    "manufacturer": "โอลิค"
-  },
-  {
-    "id": 312,
     "TMT": 250335,
     "Generic": "ASPIRIN",
     "name": "ASPENT",
@@ -2815,33 +2779,6 @@
     "strength": "80 mg.",
     "package": ".",
     "manufacturer": "มิลลิเมด"
-  },
-  {
-    "id": 314,
-    "TMT": 302903,
-    "Generic": "SIMETHICONE",
-    "name": "AIRROX",
-    "strength": "80 mg.",
-    "package": ".",
-    "manufacturer": "มิลลิเมด"
-  },
-  {
-    "id": 315,
-    "TMT": 822442,
-    "Generic": "SIMETHICONE",
-    "name": "VIN DROPS",
-    "strength": ".",
-    "package": ".",
-    "manufacturer": "พาตาร์แลบ"
-  },
-  {
-    "id": 316,
-    "TMT": 822442,
-    "Generic": "SIMETHICONE",
-    "name": "VIN DROPS",
-    "strength": ".",
-    "package": ".",
-    "manufacturer": "พาตาร์แลบ"
   },
   {
     "id": 317,
